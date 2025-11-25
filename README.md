@@ -1,5 +1,5 @@
 # ML
-```markdown
+```markdown```
 
 ## 🎯 Project Description
 
@@ -263,29 +263,6 @@ plt.ylabel('LogLoss')
 plt.grid(True)
 plt.show()
 ```
-
-## ❓ FAQ
-
-### 🤔 General Questions
-**Q: Is this project suitable for beginners?**  
-A: Absolutely! The project starts with basic concepts and gradually introduces more complex topics with detailed explanations.
-
-**Q: What mathematical background do I need?**  
-A: Basic knowledge of linear algebra, calculus, and probability is helpful but not required as concepts are explained.
-
-### 🔧 Technical Questions
-**Q: Why am I getting deprecation warnings for load_boston?**  
-A: The Boston housing dataset was deprecated in scikit-learn. We include it for educational purposes but recommend using alternative datasets like California housing for new projects.
-
-**Q: How do I handle the vanishing gradients problem?**  
-A: The neural network notebooks demonstrate how LogLoss helps mitigate vanishing gradients compared to MSE with sigmoid activation functions.
-
-### 🎓 Learning Questions
-**Q: What's the recommended learning path?**  
-A: Follow the notebooks in order: Linear Regression → Logistic Regression → Perceptron → Neural Networks.
-
-**Q: How can I extend these examples?**  
-A: Each notebook includes suggestions for further experimentation and model improvement.
 
 ---
 
@@ -556,43 +533,4 @@ plt.xlabel('Итерация')
 plt.ylabel('LogLoss')
 plt.grid(True)
 plt.show()
-```
-
-## ❓ Часто задаваемые вопросы
-
-### 🤔 Общие вопросы
-**В: Подходит ли этот проект для начинающих?**  
-О: Абсолютно! Проект начинается с базовых концепций и постепенно вводит более сложные темы с подробными объяснениями.
-
-**В: Какая математическая подготовка мне нужна?**  
-О: Базовые знания линейной алгебры, математического анализа и вероятности полезны, но не обязательны, так как концепции объясняются.
-
-### 🔧 Технические вопросы
-**В: Почему я получаю предупреждения о deprecated для load_boston?**  
-О: Набор данных о жилье в Бостоне был объявлен устаревшим в scikit-learn. Мы включаем его для образовательных целей, но рекомендуем использовать альтернативные наборы данных, такие как California housing, для новых проектов.
-
-**В: Как справиться с проблемой затухающих градиентов?**  
-О: Ноутбуки по нейронным сетям демонстрируют, как LogLoss помогает смягчить проблему затухающих градиентов по сравнению с MSE при использовании сигмоидальных функций активации.
-
-### 🎓 Вопросы по обучению
-**В: Какой рекомендуемый путь обучения?**  
-О: Следуйте ноутбукам по порядку: Линейная регрессия → Логистическая регрессия → Перцептрон → Нейронные сети.
-
-**В: Как я могу расширить эти примеры?**  
-О: Каждый ноутбук включает предложения для дальнейшего экспериментирования и улучшения моделей.
-
----
-
-<div align="center">
-
-## 📄 License / Лицензия
-
-This project is licensed under the [MIT License](./LICENSE).  
-Этот проект лицензирован по [лицензии MIT](./LICENSE).
-
-**Happy Learning! 🚀 Счастливого обучения!**
-
-![ML Journey](https://img.shields.io/badge/Start%20Your-ML%20Journey%20Today!-brightgreen)
-
-</div>
 ```
