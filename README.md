@@ -18,11 +18,16 @@
 
 ---
 
-# English Version
+```markdown
+# Machine Learning Educational Project
+
+## 📊 Project Overview
+
+This is a comprehensive educational project covering fundamental machine learning algorithms and their implementations. The project includes Jupyter notebooks with detailed explanations and practical examples of linear regression, logistic regression, perceptrons, and neural networks.
 
 ## 🎯 Project Description
 
-This collection serves as a complete learning resource for understanding core machine learning concepts:
+This collection of Jupyter notebooks serves as a complete learning resource for understanding core machine learning concepts:
 
 - **Linear Regression** - Theory, implementation, and application to real datasets
 - **Logistic Regression** - Classification problems and marketing campaign prediction
@@ -33,6 +38,18 @@ The project is designed for:
 - Students learning machine learning fundamentals
 - Data science practitioners seeking hands-on examples
 - Developers implementing ML algorithms from scratch
+
+## 📚 Table of Contents
+
+- [Technologies Used](#-technologies-used)
+- [Installation & Setup](#-installation--setup)
+- [Project Structure](#-project-structure)
+- [Features](#-features)
+- [Notebooks Overview](#-notebooks-overview)
+- [Usage Examples](#-usage-examples)
+- [License](#-license)
+- [FAQ](#-faq)
+- [Author](#-author)
 
 ## 🛠 Technologies Used
 
@@ -54,6 +71,40 @@ The project is designed for:
 - Support Vector Machines (SVM)
 - Perceptron
 - Neural Networks with various activation functions
+
+## 💻 Installation & Setup
+
+### Prerequisites
+- Python 3.7+
+- Jupyter Notebook/JupyterLab
+
+### Installation Steps
+
+1. **Clone the repository**
+```bash
+git clone <repository-url>
+cd machine-learning-educational-project
+```
+
+2. **Create virtual environment (recommended)**
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
+
+3. **Install dependencies**
+```bash
+pip install jupyter numpy pandas matplotlib scikit-learn seaborn
+```
+
+4. **Launch Jupyter Notebook**
+```bash
+jupyter notebook
+```
+
+5. **Open and run notebooks sequentially**
+
+
 
 ## ✨ Features
 
