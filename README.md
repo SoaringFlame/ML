@@ -7,9 +7,7 @@
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-blue)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-green)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-**Комплексный образовательный проект по основам машинного обучения**
 
 </div>
 
@@ -44,31 +42,6 @@
 ## 🌟 Project Overview
 
 This is a comprehensive educational project covering fundamental machine learning algorithms and their implementations. The project includes Jupyter notebooks with detailed explanations and practical examples of linear regression, logistic regression, perceptrons, and neural networks.
-
-<div align="center">
-
-```mermaid
-graph TD
-    A[ML Educational Project] --> B[Linear Regression]
-    A --> C[Logistic Regression]
-    A --> D[Perceptron]
-    A --> E[Neural Networks]
-    
-    B --> B1[Theory]
-    B --> B2[Implementation]
-    B --> B3[Real Data]
-    
-    C --> C1[Classification]
-    C --> C2[Marketing Case]
-    C --> C3[Evaluation]
-    
-    D --> D1[From Scratch]
-    D --> D2[Custom Class]
-    D --> D3[Comparison]
-    
-    E --> E1[Activation Functions]
-    E --> E2[Loss Functions]
-    E --> E3[Optimization]
 
 ## 🎯 Project Description
 
