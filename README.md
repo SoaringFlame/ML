@@ -1,5 +1,74 @@
 # ML
-```markdown```
+
+# Machine Learning Educational Project / Образовательный проект по машинному обучению
+
+<div align="center">
+
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-blue)
+![Python](https://img.shields.io/badge/Python-3.8%2B-green)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
+**Комплексный образовательный проект по основам машинного обучения**
+
+</div>
+
+## 📚 Table of Contents / Содержание
+
+### English Version
+- [🌟 Project Overview](#-project-overview)
+- [🎯 Project Description](#-project-description)
+- [🛠 Technologies Used](#-technologies-used)
+- [🚀 Quick Start](#-quick-start)
+- [📁 Project Structure](#-project-structure)
+- [✨ Features](#-features)
+- [📓 Notebooks Overview](#-notebooks-overview)
+- [💡 Usage Examples](#-usage-examples)
+- [❓ FAQ](#-faq)
+
+### Русская Версия
+- [🌟 Обзор проекта](#-обзор-проекта)
+- [🎯 Описание проекта](#-описание-проекта)
+- [🛠 Используемые технологии](#-используемые-технологии)
+- [🚀 Быстрый старт](#-быстрый-старт)
+- [📁 Структура проекта](#-структура-проекта)
+- [✨ Возможности](#-возможности)
+- [📓 Обзор ноутбуков](#-обзор-ноутбуков)
+- [💡 Примеры использования](#-примеры-использования)
+- [❓ Часто задаваемые вопросы](#-часто-задаваемые-вопросы)
+
+---
+
+# English Version
+
+## 🌟 Project Overview
+
+This is a comprehensive educational project covering fundamental machine learning algorithms and their implementations. The project includes Jupyter notebooks with detailed explanations and practical examples of linear regression, logistic regression, perceptrons, and neural networks.
+
+<div align="center">
+
+```mermaid
+graph TD
+    A[ML Educational Project] --> B[Linear Regression]
+    A --> C[Logistic Regression]
+    A --> D[Perceptron]
+    A --> E[Neural Networks]
+    
+    B --> B1[Theory]
+    B --> B2[Implementation]
+    B --> B3[Real Data]
+    
+    C --> C1[Classification]
+    C --> C2[Marketing Case]
+    C --> C3[Evaluation]
+    
+    D --> D1[From Scratch]
+    D --> D2[Custom Class]
+    D --> D3[Comparison]
+    
+    E --> E1[Activation Functions]
+    E --> E2[Loss Functions]
+    E --> E3[Optimization]
 
 ## 🎯 Project Description
 
